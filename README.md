@@ -1,5 +1,8 @@
 ## SIMPLE QUIZ APP USING REACT AND TYPESCRIPT (Using Open Trivia API)
 
+### Deployed Application:
+https://tsquiz.herokuapp.com/
+
 ### Project Setup
 
 ```javascript
